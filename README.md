@@ -1,21 +1,21 @@
-#Projet intégrateur 3D
+# 3D Capstone Project
 
-Ce projet est mon projet intégrateur pour le cours de modélisation 3D. Il représente une pièce d’appartement abandonnée, inspirée de l’univers du jeu *Stray*, avec une attention particulière portée à l’ambiance, aux matériaux et à la narration visuelle.
+This project is my final assignment for the 3D modeling course. It showcases an abandoned apartment room inspired by the universe of the game *Stray*, with a strong focus on mood, materials, and environmental storytelling.
 
-## Pipeline utilisé
+## Production Pipeline
 
-- **Modélisation :** 3ds Max
-- **Texturing :** Substance 3D Painter, Substance Designer, Substance Sampler, Photoshop
-- **Sculpture :** ZBrush
-- **Moteur de rendu temps réel :** Unreal Engine 5
+- **Modeling:** 3ds Max  
+- **Texturing:** Substance 3D Painter, Substance Designer, Substance Sampler, Photoshop  
+- **Sculpting:** ZBrush  
+- **Real-time rendering engine:** Unreal Engine 5
 
-## Objectif
+## Goals
 
-- Créer une ambiance post-apocalyptique cohérente et immersive
-- Utiliser une pipeline complète de production 3D réaliste
-- Maîtriser l’importation dans Unreal et le rendu en temps réel
+- Create a cohesive and immersive post-apocalyptic atmosphere  
+- Use a complete and professional 3D production pipeline  
+- Master importing and rendering scenes in Unreal Engine in real time
 
-## Aperçu visuel
+## Visual Preview
 
 <img src="Screenshots/Screenshot1.png" width="600"/>
 <img src="Screenshots/Screenshot2.png" width="600"/>
@@ -23,8 +23,10 @@ Ce projet est mon projet intégrateur pour le cours de modélisation 3D. Il repr
 <img src="Screenshots/Screenshot4.png" width="600"/>
 <img src="Screenshots/Screenshot5.png" width="600"/>
 <img src="Screenshots/Screenshot6.png" width="600"/>
-## Utilisation
 
-1. Cloner ce dépôt :
+## Usage
+
+1. Clone this repository:
 ```bash
 git clone https://github.com/Sophayie/3D_Project_Unreal.git
+
